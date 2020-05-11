@@ -1,13 +1,7 @@
 # CRSL5 a-side Football
 ## Final Year Project
 
-Welcome to the CRSL 5 a-side Football wiki!
+This repository holds the code for the CRSL _(Clarksons Research Services Limited)_ 5 a-side Football website. 
 
-**Developed by: Sam Rodriguez**
-
-This repository holds the code for the 5 a-side website used internally by Clarksons Research.
-
-
-
-
+For any issues or questions, please contact the Developer [Sam Rodriguez](malito:samrod09@hotmail.com). 
 
