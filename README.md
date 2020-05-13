@@ -36,5 +36,5 @@ Below is a table outlining the files involved to make the website, their purpose
 
 For any issues or queries, please contact the Developer: [Sam Rodriguez](mailto:samrod09@hotmail.com?subject=[Website]) 
 
-[I'm a relative reference to a repository file](../blob/master/PHP/displayPlayers.php)
+[I'm a relative reference to a repository file](../master/PHP/displayPlayers.php)
 
