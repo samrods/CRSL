@@ -14,15 +14,15 @@ Below is a table outlining the files involved to make the website, their purpose
 | [img_styling.css](../master/CSS/img_styling.css)| Styling sheet for images in the system                          | 92             |
 | [newMatch.css](../master/CSS/newMatch.css)      | Styling sheet when creating a new match (admin)                 | 343            |
 | [new_style.css](../master/CSS/new_style.css)    | Styling sheet for the vast majority of the system               | 812            |
-| [displayPlayers.php] (../master/PHP/displayPlayers.php)  | Script to load and display list of players             | 60             |
-| [displayQR.php] (../master/PHP/displayQR.php)   | Script to load and display selected QR code                     | 43             |
-| [editProfile.php] (../master/PHP/editProfile.php) | Page to allow users to amend their profile information        | 165            |
-| [errors.php] (../master/PHP/errors.php)         | Script to maintain errors in the system                         | 10             |
-| [forgot.php] (../master/PHP/forgot.php)         | Page to allow users to reset their password                     | 132            |
-| [index.php] (../master/PHP/index.php)           | Main home page consisting of Google Charts and graphs           | 210            |
-| [index_gc.php] (../master/PHP/index_gc.php)     | Data visualisation in the form of Google Charts                 | 321            |
-| [index_pb.php] (../master/PHP/index_pb.php)     | Prototype page showing Power Bi graph                           | 82             |
-| [index_ss.php] (../master/PHP/index_ss.php)     | Data visualisation using screenshots from Power Bi              | 91             |
+| [displayPlayers.php](../master/PHP/displayPlayers.php)  | Script to load and display list of players             | 60             |
+| [displayQR.php](../master/PHP/displayQR.php)   | Script to load and display selected QR code                     | 43             |
+| [editProfile.php](../master/PHP/editProfile.php) | Page to allow users to amend their profile information        | 165            |
+| [errors.php](../master/PHP/errors.php)         | Script to maintain errors in the system                         | 10             |
+| [forgot.php](../master/PHP/forgot.php)         | Page to allow users to reset their password                     | 132            |
+| [index.php](../master/PHP/index.php)           | Main home page consisting of Google Charts and graphs           | 210            |
+| [index_gc.php](../master/PHP/index_gc.php)     | Data visualisation in the form of Google Charts                 | 321            |
+| [index_pb.php](../master/PHP/index_pb.php)     | Prototype page showing Power Bi graph                           | 82             |
+| [index_ss.php](../master/PHP/index_ss.php)     | Data visualisation using screenshots from Power Bi              | 91             |
 | [login.php](../master/PHP/login.php)            | Login page to allow users access to the system                  | 127            |
 | [matchDay.php](../master/PHP/matchDay.php)      | Page displaying data about previous game and upcoming fixture   | 291            |
 | [nav.php](../master/PHP/nav.php)                | Script to display navigation bar at top of each web page        | 145            |
