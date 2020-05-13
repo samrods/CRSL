@@ -3,6 +3,8 @@
 
 This repository holds the code for the CRSL _(Clarksons Research Services Limited)_ 5 a-side Football website. 
 
+Below is a table outlining the files involved to make the website, their purpose and how many lines of code each has.
+
 | File Name:           | Description:                                                    | Lines of Code: |
 | -------------------- |-----------------------------------------------------------------| --------------:|
 | myjs.js              | JavaScript file containing behaviour for different components   | 304            |
