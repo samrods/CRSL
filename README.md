@@ -30,7 +30,7 @@ This repository holds the code for the CRSL _(Clarksons Research Services Limite
 | register.php         | New users can create an account to register to system           | 179            |
 | results.php          | Admin users can enter the results of a game                     | 358            |
 | server.php           | Script to provide MySQL database connection & form submissions  | 716            |
-|                      | **Total**                                                       | **5611**       |
+|                      | --------------:**Total**                                        | **5611**       |
 
 For any issues or queries, please contact the Developer: [Sam Rodriguez](mailto:samrod09@hotmail.com?subject=[Website]) 
 
