@@ -1,0 +1,67 @@
+/*-----------------------------------------------*/
+/* CSS for check boxes when creating a new match */
+/*-----------------------------------------------*/
+
+/* Contain element of checkboxes */
+.container {
+    display: block;
+    position: absolute;
+    cursor: pointer;
+    user-select: none;
+    text-align:center;
+}
+
+/* Override default checkbox */
+.container input {
+    position: absolute;
+    cursor: pointer;
+}
+
+/* Create custom checkbox */
+.checkmark {
+    position: absolute;
+    top: -0.5em;
+    left: 20%;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+/* Control background colour */
+.container:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+.container input:checked ~ .checkmark {
+    background-color: #2196F3;
+}
+
+/* Add the tick */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+.container input:checked ~ .checkmark:after {
+    display: block;
+}
+.container .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg);
+}
+/*Submit button to db styling*/
+.btn-input {
+    float: right;
+    bottom: 0;
+    margin: 0.5em;
+	color: #000000;
+	border-radius:15px;
+	padding: 15px 15px;
+	font-size: 2rem;
+	font-weight: bold;
+	text-transform: uppercase;
+}
