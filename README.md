@@ -28,7 +28,7 @@ Below is a table outlining the files involved to make the website, their purpose
 | [nav.php](../master/PHP/nav.php)                | Script to display navigation bar at top of each web page        | 145            |
 | [newMatch.php](../master/PHP/newMatch.php)      | Admin users can create an upcoming fixture                      | 136            |
 | [profile.php](../master/PHP/profile.php)        | Page displaying user's profile                                  | 504            |
-| [profile_gallery.php](../master/PHP/profile_gallery.php)  Page displaying all user's profiles                     | 130            | 
+| [profile_gallery.php](../master/PHP/profile_gallery.php)|  Page displaying all user's profiles                     | 130            | 
 | [register.php](../master/PHP/register.php)      | New users can create an account to register to system           | 179            |
 | [results.php](../master/PHP/results.php)        | Admin users can enter the results of a game                     | 358            |
 | [server.php](../master/PHP/server.php)          | Script to provide MySQL database connection & form submissions  | 716            |
