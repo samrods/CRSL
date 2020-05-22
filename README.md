@@ -8,7 +8,7 @@ Below is a table outlining the files involved to make the website, their purpose
 | File Name:           | Description:                                                                               | Lines of Code: |
 | -------------------- |--------------------------------------------------------------------------------------------| --------------:|
 | [myjs.js](../master/myjs.jss)                   | JavaScript file containing behaviour for different components   | 304            |
-| [terms.html](../master/terms.html)              | Terms and Conditions page                                       | 62             |
+| [terms.html](../master/terms.html)              | Terms and Conditions page                                       | 69             |
 | [error_log](../master/error_log)                | Error logging page with any system defects                      | N/A            |
 | [admin.css](../master/CSS/admin.css)            | Styling sheet for the Admin section of website                  | 231            |
 | [check.css](../master/CSS/check.css)            | Styling sheet for checkboxes in the system                      | 67             |
@@ -33,6 +33,6 @@ Below is a table outlining the files involved to make the website, their purpose
 | [register.php](../master/PHP/register.php)      | New users can create an account to register to system           | 179            |
 | [results.php](../master/PHP/results.php)        | Admin users can enter the results of a game                     | 358            |
 | [server.php](../master/PHP/server.php)          | Script to provide MySQL database connection & form submissions  | 716            |
-|                                                 | **Total**                                                       | **5611**       |
+|                                                 | **Total**                                                       | **5618**       |
 
 For any issues or queries, please contact the Developer: [Sam Rodriguez](mailto:samrod09@hotmail.com?subject=[Website]) 
