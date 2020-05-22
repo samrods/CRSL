@@ -9,6 +9,7 @@ Below is a table outlining the files involved to make the website, their purpose
 | -------------------- |--------------------------------------------------------------------------------------------| --------------:|
 | [myjs.js](../master/myjs.jss)                   | JavaScript file containing behaviour for different components   | 304            |
 | [terms.html](../master/terms.html)              | Terms and Conditions page                                       | 62             |
+| [error_log](../master/error_log)                | Error logging page with any system defects                      | N/A            |
 | [admin.css](../master/CSS/admin.css)            | Styling sheet for the Admin section of website                  | 231            |
 | [check.css](../master/CSS/check.css)            | Styling sheet for checkboxes in the system                      | 67             |
 | [img_styling.css](../master/CSS/img_styling.css)| Styling sheet for images in the system                          | 92             |
