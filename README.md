@@ -3,6 +3,8 @@
 
 This repository holds the code for the CRSL _(Clarksons Research Services Limited)_ 5 a-side Football website. 
 
+Additional Documentation includes the Product Report which can be downloaded from: [https://ci301.slr46.brighton.domains/](https://ci301.slr46.brighton.domains/)
+
 Below is a table outlining the files involved to make the website, their purpose and how many lines of code each has.
 
 | File Name:           | Description:                                                                               | Lines of Code: |
